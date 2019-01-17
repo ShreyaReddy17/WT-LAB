@@ -1,0 +1,24 @@
+body{
+    background-color: bisque;
+}
+#p02{
+    font-family:inherit;
+    font-size: 25;
+    color: red;
+}
+#p03{
+    font-family: inherit;
+    font-size: 25;
+    font-weight: 800;
+    color: black;
+}
+p{
+    color: green;
+}
+#p01{
+    font-family:inherit;
+    font-weight: bold;
+    font-size: 25;
+    color: red;
+    
+}
